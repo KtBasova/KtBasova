@@ -12,5 +12,5 @@
 - 💬 Связаться со мной:<br> **• [Telegram](https://t.me/Kt_sh)** <br>
 **• Email: Chernysha5@yandex.ru**
 
-  - 📄 Мое резюме: [Резюме](https://hh.ru/applicant/resumes/view?resume=d29ebc71ff0d2cc39e0039ed1f753351667557)
+- 📄 Моё резюме: [Резюме](https://hh.ru/applicant/resumes/view?resume=d29ebc71ff0d2cc39e0039ed1f753351667557)
 
