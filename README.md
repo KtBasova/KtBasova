@@ -24,3 +24,12 @@
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" height="50" /> </a> 
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" /></a> 
   <a href="https://www.jupyter.org//" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/7388996?s=200&v=4](https://jupyter.org/assets/homepage/main-logo.svg" alt="Jupyter Notebook" height="50" /></a> </p>
+
+
+###
+
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
+###
