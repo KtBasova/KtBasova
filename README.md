@@ -7,7 +7,7 @@
 ###
 🌱 Прошла обучение в **Яндекс.Практикум**
   
-👨‍💻 Мои проекты: [Проекты](https://github.com/Kt-Shap?tab=repositories)
+👨‍💻 Мои проекты: [Проекты](https://github.com/KtBasova?tab=repositories)
 
 💬 Связаться со мной:<br> **• [Telegram](https://t.me/Kt_sh)** <br>
 **• Email: Chernysha5@yandex.ru**
